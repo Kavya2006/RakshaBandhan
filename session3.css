@@ -1,0 +1,100 @@
+ html, body
+ {
+     width: 100%;
+     height: 100%;
+
+ }
+ #kavya {
+     background-color: aqua;
+     height: 100% ;
+     width:100% ;
+    
+}
+#kavya2{
+    background-color:#eb4d4b ;
+    height: 50%;
+    width: 100%;
+
+}
+#kavya3{
+    background-color:#85C1E9;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h1 {
+    font-size: 60px;
+    font-family: 'cinzel';
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 9px;
+    color:white;
+    
+}
+*{
+    margin: 0;
+
+}
+#box1
+{
+    height:70% ;
+    width: 25%;
+    
+background-image: url(https://images.jansatta.com/2019/08/raksha-bandhan-muhurt-small-620x400.jpg?w=360&h=232);
+background-size: cover;
+background-position: center;
+border-radius: 5px ;
+}
+#box2
+{
+    height:70% ;
+    width: 25%;
+    background-size: cover;
+background-position: center;
+border-radius: 5px ;
+background-image: url(https://js.inkhabar.com/wp-content/uploads/2019/08/WhatsApp-messages-Rakhi-wishes-and-greetings-SMS-Quotes-Rakshabandhan-HD-Image-Facebook-posts.webp);
+}
+    
+
+
+#box3
+{
+    height:70% ;
+    width: 25%;
+    background-size: cover;
+background-position: center;
+border-radius: 5px ;
+background-image: url(https://images.hindi.news18.com/ibnkhabar/uploads/2019/08/Rakshabandhan-Quotes6.jpg);
+}
+button
+{
+    padding: 15px 20px ;
+color: white ;
+background-color: white;
+border: solid 3px white;
+letter-spacing: 5px;
+font-weight: 700 ;
+border-radius: 100px ;
+margin-left: 200px;
+margin-top: 50px;
+
+
+}
+button :hover
+{
+    background-color:blue;
+    color: black;
+}
+p {
+    color: white;
+    font-weight: 100;
+    font-size: 20px;
+    padding: 0 30px;
+    margin-top: 10px;
+}
+a
+{
+    color: black;
+}
